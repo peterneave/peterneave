@@ -1,8 +1,7 @@
-### About Me
-I enjoy being creative and solving problems.
+### Welcome
 
-### Why am I here?
+Nice to meet you.
 
-We are all learning. I love the collaborative nature of Git to learn and grow. To improve and grow. As Epictetus said
+### Quote
 
-> If you want to improve, be content to be thought foolish and stupid
+> If you want to improve, be content to be thought foolish and stupid (Epictetus)
